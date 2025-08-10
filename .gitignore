@@ -11,3 +11,6 @@ wheels/
 
 # Environment Variables
 .env
+
+# Ignore LangGraph local API cache
+3-Debugging/.langgraph_api/
